@@ -1,0 +1,16 @@
+<script src="front_files/js/jquery.js"></script>
+<script src="front_files/js/popper.min.js"></script>
+<script src="front_files/js/jquery-ui.js"></script>
+<script src="front_files/js/bootstrap.min.js"></script>
+<script src="front_files/js/jquery.fancybox.js"></script>
+<script src="front_files/js/parallax.min.js"></script>
+<script src="front_files/js/jquery.paroller.min.js"></script>
+<script src="front_files/js/owl.js"></script>
+<script src="front_files/js/wow.js"></script>
+<script src="front_files/js/nav-tool.js"></script>
+<script src="front_files/js/jquery.magnific-popup.min.js"></script>
+<script src="front_files/js/main.js"></script>
+<script src="front_files/js/swiper.min.js"></script>
+<script src="front_files/js/appear.js"></script>
+<script src="front_files/js/script.js"></script>
+<script src="front_files/js/color-settings.js"></script>
